@@ -1,0 +1,6 @@
+# Never publish the curriculum or mocks: CFA Institute licensed material
+*.pdf
+*.epub
+curriculum/
+mocks/
+.DS_Store
